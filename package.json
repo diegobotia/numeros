@@ -1,0 +1,22 @@
+{
+  "name": "numeros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegobotia/numeros.git"
+  },
+  "author": "db",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegobotia/numeros/issues"
+  },
+  "homepage": "https://github.com/diegobotia/numeros#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
