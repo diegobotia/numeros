@@ -6,6 +6,7 @@ const secondNum = interface.question("Deme el segundo numero:  ");
 
 var a = parseInt(firstNum);
 var b = parseInt(secondNum);
+var c;
 
 console.log(`Add ${a} + ${b} = ${calculator.add(a,b)}`);
 console.log(`Minus ${a} - ${b} = ${calculator.minus(a,b)}`);
