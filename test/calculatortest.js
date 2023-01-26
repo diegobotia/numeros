@@ -27,6 +27,11 @@ describe("Calculator - Test", function(){
             expect(calculator.raiz(45)).to.equal(6.708203932499369);
         });
 
+        it("Testing the elevate operation", function(){
+            expect(calculator.elevado(4)).to.equal(16);
+        });
+
+
         it("Testing the divide operation by zero", function(){
             const expectError= new Error("No puede dividir por cero");
             expect(calculator.divide(3,0).message).to.equal(expectError.message);
