@@ -1,5 +1,7 @@
 [![Unit Tests](https://github.com/diegobotia/numeros/actions/workflows/testing.yml/badge.svg?branch=main)](https://github.com/diegobotia/numeros/actions/workflows/testing.yml)
 
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_numeros&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=diegobotia_numeros)
+
 
 # numeros
 
