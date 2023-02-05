@@ -1,5 +1,11 @@
 'use strict';
 
+let x1;
+let x2;
+
+function elevado(x2){
+   return x2*x2;    
+}
 function add(a,b){
   //let uno=document.getElementById("n1");
   //let dos=document.getElementById("n2");
@@ -36,5 +42,6 @@ module.exports= {
     minus,
     multiply,
     divide,
-    raiz
+    raiz,
+    elevado
 }
